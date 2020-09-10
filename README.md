@@ -1,2 +1,2 @@
 # portfolio
- This is my personal site
+ This is my personal profile page
